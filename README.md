@@ -20,7 +20,9 @@
 
 - 🔹 [**Generador de Códigos QR**](https://github.com/Shadowfiend2504/Generador_qr)  
   Aplicación que crea códigos QR personalizados para diversos usos.
-
+  
+- 🔹 [**Portafolio **](https://shadowfiend2504.github.io)
+  Portafolio personalizado
 ---
 
 ### 🚀 Sobre mí
