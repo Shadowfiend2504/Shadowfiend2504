@@ -1,8 +1,9 @@
 # Juan Carvajal
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/7f8cfdea-7d82-45bd-8085-1c2d0f13b635) alt="Banner de Juan Carvajal" />
+  <img src="https://github.com/user-attachments/assets/2671129c-aac1-4dc1-ad0c-970b0f2a7339" alt="Banner de Juan Carvajal" width="800"/>
 </div>
+<br />
 
 
 🎓 Estudiante universitario de **Ingeniería de Sistemas** con pasión por el desarrollo de software y la resolución de problemas mediante la programación. He trabajado en diversos proyectos académicos y personales que abarcan desde aplicaciones de escritorio hasta soluciones web, utilizando lenguajes como **Python**, **Java**, **C++** y tecnologías como **HTML/CSS**.
