@@ -36,6 +36,8 @@
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shadowfiend2504&theme=dark)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowfiend2504&show_icons=true&theme=dark)
@@ -46,3 +48,5 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark" /></td>
   </tr>
 </table>
+
+</div>
