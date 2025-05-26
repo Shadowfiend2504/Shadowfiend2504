@@ -1,5 +1,6 @@
 
-# JuanCarvajal
+![image](https://github.com/user-attachments/assets/1b5c556b-3ab3-48bc-8a21-028bca95434a)
+
 
 🎓 Estudiante universitario de **Ingeniería de Sistemas** con pasión por el desarrollo de software y la resolución de problemas mediante la programación. He trabajado en diversos proyectos académicos y personales que abarcan desde aplicaciones de escritorio hasta soluciones web, utilizando lenguajes como **Python**, **Java**, **C++** y tecnologías como **HTML/CSS**.
 
