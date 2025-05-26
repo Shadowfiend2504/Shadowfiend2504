@@ -21,7 +21,7 @@
 - 🔹 [**Juego de Memoria**](https://github.com/Shadowfiend2504/-Memoria-o-Busca-las-parejas)  
   Juego interactivo desarrollado con Python y Tkinter para mejorar habilidades cognitivas.
 
-- 🔹 [**Monitoreo de Recursos del PC**](https://github.com/Shadowfiend2504/Proyecto-monitoreo-de-recursos-pc)  
+- 🔹 [**Monitoreo de Recursos del PC**](https://github.com/Shadowfiend2504/Monitoreo-de-recursos-pc)  
   Herramienta para supervisar el uso de recursos del sistema en tiempo real.
 
 - 🔹 [**Generador de Códigos QR**](https://github.com/Shadowfiend2504/Generador_qr)  
