@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**Shadowfiend2504/Shadowfiend2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# JuanCarvajal
 
-Here are some ideas to get you started:
+🎓 Estudiante universitario de **Ingeniería de Sistemas** con pasión por el desarrollo de software y la resolución de problemas mediante la programación. He trabajado en diversos proyectos académicos y personales que abarcan desde aplicaciones de escritorio hasta soluciones web, utilizando lenguajes como **Python**, **Java**, **C++** y tecnologías como **HTML/CSS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Proyectos destacados
+
+- 🔹 [**Gestión de Citas Médicas**](https://github.com/Shadowfiend2504/GestionCitasMedicas)  
+  Aplicación web para la administración de citas médicas, integrando bases de datos y envío de correos electrónicos.
+
+- 🔹 [**Proyecto Base de Datos**](https://github.com/Shadowfiend2504/Grupo-3)  
+  Sistema para gestionar información de integrantes de una banda musical, permitiendo consultas y modificaciones eficientes.
+
+- 🔹 [**Juego de Memoria**](https://github.com/Shadowfiend2504/-Memoria-o-Busca-las-parejas)  
+  Juego interactivo desarrollado con Python y Tkinter para mejorar habilidades cognitivas.
+
+- 🔹 [**Monitoreo de Recursos del PC**](https://github.com/Shadowfiend2504/Proyecto-monitoreo-de-recursos-pc)  
+  Herramienta para supervisar el uso de recursos del sistema en tiempo real.
+
+- 🔹 [**Generador de Códigos QR**](https://github.com/Shadowfiend2504/Generador_qr)  
+  Aplicación que crea códigos QR personalizados para diversos usos.
+
+---
+
+### 🚀 Sobre mí
+
+💡 Estoy en constante aprendizaje y busco oportunidades para aplicar mis conocimientos en proyectos reales.  
+🔧 Me interesa especialmente el **desarrollo backend**, la **gestión de bases de datos** y la **automatización de procesos**.
+
+---
+
+📫 **¿Quieres contactarme o ver más de mi trabajo?**  
+¡Estoy abierto a colaborar y seguir creciendo como desarrollador!
+
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shadowfiend2504&theme=dark)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowfiend2504&show_icons=true&theme=dark)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfiend2504&layout=compact&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark" /></td>
+  </tr>
+</table>
