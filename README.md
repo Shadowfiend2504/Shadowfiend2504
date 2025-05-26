@@ -50,3 +50,8 @@
 </table>
 
 </div>
+
+### 📬 Contacto
+
+![Status](https://img.shields.io/badge/Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas-blueviolet?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Carvajal-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/js-carvajal-66821a346/)
