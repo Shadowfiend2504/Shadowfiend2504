@@ -1,7 +1,7 @@
 # Juan Carvajal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shadowfiend2504/Shadowfiend2504/main/banner.png" alt="Banner de Juan Carvajal" />
+  <img src="![image](https://github.com/user-attachments/assets/7f8cfdea-7d82-45bd-8085-1c2d0f13b635) alt="Banner de Juan Carvajal" />
 </div>
 
 
