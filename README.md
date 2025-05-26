@@ -1,7 +1,7 @@
 # Juan Carvajal
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2671129c-aac1-4dc1-ad0c-970b0f2a7339" alt="Banner de Juan Carvajal" width="800"/>
+  <img src="https://github.com/user-attachments/assets/2671129c-aac1-4dc1-ad0c-970b0f2a7339" alt="Banner de Juan Carvajal" width="800" height="70" />
 </div>
 <br />
 
